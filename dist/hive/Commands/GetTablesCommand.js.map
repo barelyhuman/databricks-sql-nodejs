@@ -1,0 +1,1 @@
+{"version":3,"file":"GetTablesCommand.js","sourceRoot":"","sources":["../../../lib/hive/Commands/GetTablesCommand.ts"],"names":[],"mappings":";;;;;AAAA,gEAAwC;AACxC,yEAAkF;AAElF,MAAqB,gBAAiB,SAAQ,qBAAW;IACvD,OAAO,CAAC,IAAmB;QACzB,MAAM,OAAO,GAAG,IAAI,iCAAa,CAAC,IAAI,CAAC,CAAC;QAExC,OAAO,IAAI,CAAC,cAAc,CAAiB,OAAO,EAAE,IAAI,CAAC,MAAM,CAAC,SAAS,CAAC,CAAC;IAC7E,CAAC;CACF;AAND,mCAMC"}

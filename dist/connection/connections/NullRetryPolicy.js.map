@@ -1,0 +1,1 @@
+{"version":3,"file":"NullRetryPolicy.js","sourceRoot":"","sources":["../../../lib/connection/connections/NullRetryPolicy.ts"],"names":[],"mappings":";;;;;;;;;;;AAEA,MAAqB,eAAe;IAClC,6DAA6D;IAChD,WAAW,CAAC,OAAU;;YACjC,OAAO,EAAE,WAAW,EAAE,KAAK,EAAE,CAAC;QAChC,CAAC;KAAA;IAEY,eAAe,CAAC,SAAgC;;YAC3D,uDAAuD;YACvD,OAAO,SAAS,EAAE,CAAC;QACrB,CAAC;KAAA;CACF;AAVD,kCAUC"}

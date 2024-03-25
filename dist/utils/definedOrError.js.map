@@ -1,0 +1,1 @@
+{"version":3,"file":"definedOrError.js","sourceRoot":"","sources":["../../lib/utils/definedOrError.ts"],"names":[],"mappings":";;AAAA,SAAwB,cAAc,CAAI,KAAoB;IAC5D,IAAI,KAAK,KAAK,SAAS,EAAE;QACvB,MAAM,IAAI,SAAS,CAAC,oBAAoB,CAAC,CAAC;KAC3C;IACD,OAAO,KAAK,CAAC;AACf,CAAC;AALD,iCAKC"}
